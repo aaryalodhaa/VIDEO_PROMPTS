@@ -1,7 +1,7 @@
 {
     "logo_placement": "Analyze the frames and describe the logo placement using only five keywords. Focus on prominence, size, orientation, position, and visibility.",
     "resolution_quality": "Analyze the resolution quality of the given content and provide output as exactly 5 keywords in point format, avoiding any explanations or sentences.",
-    "color_palette": "Summarize the color palette in the frames using only five keywords. Focus on dominant and accent colors, hues, tones, and saturation levels.",
+    "color_palette": "Analyze the color palette of the given content and provide output as exactly 5 keywords in point format, avoiding any explanations or sentences",
     "visual_themes": "Describe the visual themes in the frames using only five keywords. Note emotional and stylistic tones like modern, rustic, or futuristic.",
     "key_objects": "Identify key objects in the frames using only five keywords. Focus on prominence, relevance, and contribution to the video’s message.",
     "people_attributes": "Describe people in the frames using only five keywords. Focus on demographics, attributes, and alignment with the target audience.",
