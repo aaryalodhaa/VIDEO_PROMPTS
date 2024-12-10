@@ -5,7 +5,7 @@
     "visual_themes": "Describe the visual themes in the frames using only five keywords. Note emotional and stylistic tones like modern, rustic, or futuristic.",
     "key_objects": "Identify key objects in the frames using only five keywords. Focus on prominence, relevance, and contribution to the video’s message.",
     "people_attributes": "Describe people in the frames using only five keywords. Focus on demographics, attributes, and alignment with the target audience.",
-    "text_amount": "Evaluate the text amount in the frames using only five keywords. Note density, readability, and balance with visuals.",
+    "text_amount": "Analyze the text amount in the frames and output exactly 3 keywords: density, readability, and balance with visuals, without any explanations.",
     "text_overlay_style": "Summarize the text overlay style in the frames using only five keywords. Focus on font, color, placement, and effects.",
     "brand_integration": "Describe brand integration in the frames using only five keywords. Note placements like foreground, background, or prominence.",
     "background_elements": "Identify background elements in these frames from the video and provide a single, combined observation. Note urban or natural scenes, abstract patterns, or textures and their impact across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Casino setting, neon lights, slot machines.",
