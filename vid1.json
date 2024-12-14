@@ -32,7 +32,7 @@
     
     "symbols_icons": "Identify symbols, icons, or visual shorthand in these frames from the video and provide a single, combined observation. Note if they clarify meaning, enhance interest, or provide cultural references. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Icons, clear meaning, brand logo.",
     
-    "depth_of_field": "Observe depth of field in these frames from the video and provide a single, combined observation. Note shallow or deep focus, visual hierarchy, and focal emphasis. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Shallow focus, blurred background, subject highlight.",
+    "depth_of_field": "Analyze the text amount of the given content and provide output as exactly 5 keywords in point format, without explanations or sentences.",
     
     "offer_promotion": "Identify offers or promotions using five keywords. Note discounts, exclusivity, or urgency. If none, respond with 'None.'",
     "hook_binary": "Identify if a hook is present in the frames. Respond only with 'True' or 'False.'",
