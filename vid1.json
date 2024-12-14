@@ -8,7 +8,7 @@
     "text_amount": "Analyze the text amount of the given content. Output exactly 5 keywords in point format, strictly avoiding sentences or explanations.",
     "text_overlay_style": "Analyze the text overlay style and provide the output as exactly 5 keywords in point format. Avoid sentences or explanations.",
     "brand_integration": "Analyze the brand integration within the content and provide the output as exactly 5 keyword points. Avoid sentences or explanations.",
-    "background_elements": "Identify background elements in these frames from the video and provide a single, combined observation. Note urban or natural scenes, abstract patterns, or textures and their impact across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Casino setting, neon lights, slot machines.",
+    "background_elements": "Analyze the background elements of the given content and provide output as exactly 5 keywords in point format. Avoid explanations or sentences.",
     "vfx_elements": "Analyze the VFX elements of the given content and provide output as exactly 5 keywords in point format, without explanations or sentences.",
     "layout_composition": "Analyze the layout composition of the given content and provide output as exactly 5 keywords in point format, avoiding explanations or full sentences",
     "shot_type": "Analyze the shot types in the given content and provide output as exactly 5 keywords in point format, without explanations or sentences.",
