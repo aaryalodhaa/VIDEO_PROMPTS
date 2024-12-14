@@ -5,7 +5,7 @@
     "visual_themes": "Evaluate the visual theme of the given content and provide output as exactly 5 keywords in point format, without explanations or sentences.",
     "key_objects": "Identify and analyze the key objects present in the given content or image and provide output as exactly 5 keywords in point format, without explanations or sentences",
     "people_attributes": "Analyze the people attributes in the given content and provide the output as exactly 5 keywords in point format, without explanations or sentences.",
-    "text_amount": "Analyze the text amount in the frames and output exactly 3 keywords: density, readability, and balance with visuals, without any explanations.",
+    "text_amount": "Analyze the text amount of the given content. Output exactly 5 keywords in point format, strictly avoiding sentences or explanations.",
     "text_overlay_style": "Analyze the text overlay style and provide the output as exactly 5 keywords in point format. Avoid sentences or explanations.",
     "brand_integration": "Analyze the brand integration within the content and provide the output as exactly 5 keyword points. Avoid sentences or explanations.",
     "background_elements": "Identify background elements in these frames from the video and provide a single, combined observation. Note urban or natural scenes, abstract patterns, or textures and their impact across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Casino setting, neon lights, slot machines.",
