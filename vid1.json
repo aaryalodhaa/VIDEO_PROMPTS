@@ -23,7 +23,7 @@
     "target_audience": "Analyze the target audience of the given content and provide output as exactly 5 keywords in point format, without explanations or sentences.",
     "cultural_relevance": "Observe cultural relevance in these frames from the video and provide a single, combined observation. Note symbols, traditions, language, or themes meaningful to the target audience. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Pop culture references, youth appeal.",
     
-    "business_tags": "Generate business-related tags for the given input and ensure the output consists of exactly 5 keywords in point format, avoiding any explanations or sentence structure.",
+    "business_tags": "Analyze the provided content for relevant business tags and output exactly 5 keywords in point format, without explanations or sentences.",
     "product_tags": "Analyze these product frames from the video and generate a single, combined set of relevant tags that describe the key elements of the product. Focus on keywords related to the product type, brand, target audience, features, benefits, functionalities, materials, sizes, colors, usage occasions, design or aesthetic qualities, and any unique selling points. Eliminate duplicate or redundant tags. Provide the tags in the form of bullet points.",
     
     "brand_cues": "Examine brand integration in these frames from the video and provide a single, combined observation. Note brand cues like logo placement, product usage, or colors. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Prominent logo, central placement, brand colors.",
